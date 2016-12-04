@@ -1,0 +1,3 @@
+/home/vagrant/ClionProjects/ElectricFenceTesting/CMakeFiles/edit_cache.dir
+/home/vagrant/ClionProjects/ElectricFenceTesting/CMakeFiles/rebuild_cache.dir
+/home/vagrant/ClionProjects/ElectricFenceTesting/CMakeFiles/ElectricFenceTesting.dir
